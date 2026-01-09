@@ -1,0 +1,4 @@
+SQL Query: DELETE FROM laporan WHERE id_laporan = '24112903'
+Query gagal: 
+SQL Query: DELETE FROM laporan WHERE id_laporan = '24112903'
+Query gagal: 
